@@ -1,0 +1,30 @@
+{
+  "name": "gulp-aum",
+  "version": "0.0.3",
+  "description": "Aum particle orchestration.",
+  "keywords": [
+    "aum",
+    "gulp",
+    "mvc"
+  ],
+  "author": {
+    "name": "Chad Joseph Brown",
+    "url": "http://www.chadjoseph.com"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chadjoseph/gulp-aum.git"
+  },
+  "dependencies": {
+    "aum": "*",
+    "gulp": "~3.6.2",
+    "gulp-aum-export": "*",
+    "gulp-aum-import": "*",
+    "gulp-aum-particle": "*",
+    "gulp-aum-register": "*",
+    "gulp-concat": "~2.2.0",
+    "gulp-uglify": "~0.3.0"
+  }
+}
+
